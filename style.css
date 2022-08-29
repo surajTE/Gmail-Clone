@@ -1,0 +1,17 @@
+.compose .btn{
+    padding: 15px 25px;
+    border-radius: 20px;
+}
+
+input:focus{
+    outline: none;
+    color: #fff;
+}
+
+#home{
+    height: 82vh;
+}
+
+.side-menu span{
+    margin-bottom: 30px;
+}
